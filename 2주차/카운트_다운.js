@@ -1,4 +1,4 @@
-//@ts-check
+// @ts-check
 
 /**
  * 문제:
@@ -12,6 +12,7 @@
  * @param {number} end_num
  * @returns {number[]}
  */
+
 const solution = (start, end_num) => {
   return (
     // 시작 숫자와 끝 숫자 사이의 범위 크기를 계산하고 배열을 생성한다.
