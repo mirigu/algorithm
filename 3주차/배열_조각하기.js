@@ -15,7 +15,7 @@
  *
  * @param {number[]} arr
  * @param {number[]} query
- * @returns
+ * @returns {number[]}
  */
 
 const solution = (arr, query) => {
